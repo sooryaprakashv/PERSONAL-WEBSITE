@@ -1,0 +1,17 @@
+#img2{
+    -webkit-box-shadow: 2px -3px 29px 0px rgba(5,5,97,1);
+    -moz-box-shadow: 2px -3px 29px 0px rgba(5,5,97,1);
+    box-shadow: 2px -3px 29px 0px rgba(5,5,97,1);
+}
+h1{
+    font-size: 3rem;
+    font-weight: 900;
+}
+#header{
+    /*  background-color:#2176f5;*/
+    background: url(Gradient\ color\ purple\ Background_\ A\ color\ purple\ gradient\ Background\ photo.jpeg);
+  }
+  body{
+    /*   background-color:rgb(50, 65, 79)*/
+    background: url(Gradient\ color\ purple\ Background_\ A\ color\ purple\ gradient\ Background\ photo.jpeg);
+   }

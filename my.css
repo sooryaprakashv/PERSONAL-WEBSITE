@@ -1,0 +1,87 @@
+body{
+ /*   background-color:rgb(50, 65, 79)*/
+ background: url(Gradient\ color\ purple\ Background_\ A\ color\ purple\ gradient\ Background\ photo.jpeg);
+}
+#header{
+  /*  background-color:#2176f5;*/
+  background: url(Gradient\ color\ purple\ Background_\ A\ color\ purple\ gradient\ Background\ photo.jpeg);
+}
+body{
+  background-color:rgb(50, 65, 79)
+}
+#header{
+  background-color: white;
+}
+
+#icons a:hover{
+  color: rgb(58, 250, 10);
+  width: 10px;
+
+}
+
+#nclr a:hover{
+color:aliceblue;
+}
+#icons a{
+
+
+}
+
+
+/*#icons a{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: 2px solid rgb(16, 219, 241);
+  border-radius: 50%;
+  font-size: 20px;
+  color: rgb(223, 229, 230);
+  text-decoration: none;
+  margin: 30px 15px 30px 0;
+  opacity: 0;
+  animation: slideRight 1s ease forwards;
+  animation-delay: 1s;
+
+}*/
+.btn-box{
+  display: inline-block;
+  padding: 12px 28px;
+  background: #0ef;
+  border-radius: 40px;
+  font-size: 16px;
+  color: #081b29;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-weight: 600;
+}
+/*
+#nclr a:hover{
+ color:cyan;
+}
+a:hover{
+  color: aqua;
+}
+h1{
+  font-size: 56px;
+  font-weight: 700;
+  margin: -3px 0;
+ /* opacity: 0;*/
+ /*animation: slideRight 1s ease forwards;
+  animation-delay: 1s;
+}
+#pera p{
+  font-size: 10px;
+  /*opacity: 0;*/
+ /* animation: slideLeft 1s ease forwards;
+  animation-delay: 1s;
+}
+/*#img4{
+  position: relative;
+  top: 50px;
+  left: 500px;
+}
+
+  
